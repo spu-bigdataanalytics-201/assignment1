@@ -78,6 +78,15 @@ To run a jupyter notebook, you can use the following. You can use `--generate-co
 jupyter notebook --notebook-dir="path/to/your/project/"
 ```
 
+## How Assigments will be Evaluated?
+
+Your assignments will be evaluated by the following list of things.
+
+- How much checkboxes were you able to finish from [your list for the assignment](#your-to-do-list-for-this-task).
+- Your repository organization.
+- Your notebook readability and outputs.
+- Your reproducibility of your assignment.
+
 <h2> Tasks </h2>
 
 You should create a notebook to do the following tasks in below. 
@@ -85,19 +94,26 @@ You should create a notebook to do the following tasks in below.
 <!-- TODO: Create an example notebook to illustrate how notebooks should be. -->
 While working on your notebooks, you should also create headings, subsections for each task, under subsections, you must explain your code. Your code should also have comments, and you should save your result into a variable and in another cell, you should print your results. Check out the example notebook for your future reference.
 
-- Create a function to find nth number within the [fibonacci series](https://en.wikipedia.org/wiki/Fibonacci_number).
-- Use object-oriented programming logic and create two classes. The first class will represent animals, second class will represent dogs. Create features to both of your classes and illustrate object oriented logic by inheriting parent classes attributes in your child class.
-- Create a one-line function to calculate the nth power of given two inputs, a and b. Use your one-line with real numbers and print your output.
-- Create a module with the following functions.
+- **Task-01:** Create a function to find nth number within the [fibonacci series](https://en.wikipedia.org/wiki/Fibonacci_number).
+- **Task-02:** Use object-oriented programming logic and create two classes. The first class will represent animals, second class will represent dogs. Create features to both of your classes and illustrate object oriented logic by inheriting parent classes attributes in your child class.
+- **Task-03:** Create a one-line function to calculate the nth power of given two inputs, a and b. Use your one-line with real numbers and print your output.
+- **Task-04:** Create a module with the following functions.
     - A function to concatenate given first and last name.
     - A function to calculate an age given the birth year.
     - A class to represent a person with following attributes: `first_name`, `last_name`, `birth_year`.
     - Import everything from your module and create an instance from your person class. Use the functions from your module to find the age, and the full name of the person instance you created.
-- Create a decorator function that prints before and after the execution of the function it is used with.
-<!-- TODO: Expand examples with more, maybe with hackerrank examples -->
+- **Task-05:** Create a decorator function that prints before and after the execution of the function it is used with.
+- **Task-06:** In this repository, there is a file called `numbers.txt`. This file has 100 lines of 50 digit long numbers. Calculate the sum of all 100 numbers and get the last 10 digit. Use `map` function of python while doing this task.
+- **Task-07:** The series of `1^1 + 2^2 + 3^3 + ... + 10^10` equals to 10405071317. Find the last 10 digits of the following series: `1^1 + 2^2 + 3^3 + ... + 500^500`. Use `reduce` function while doing this assignment.
 
 ## Your To-Do List for This Task
 
 - [ ] Create your environment and install the requirements folder.
-- [ ] Complete the tasks by creating a jupyter notebook.
+- [ ] Task 01
+- [ ] Task 02
+- [ ] Task 03
+- [ ] Task 04
+- [ ] Task 05
+- [ ] Task 06
+- [ ] Task 07
 - [ ] Once you done, do your final commit and zip it to upload to the blackboard!
