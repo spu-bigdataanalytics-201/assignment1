@@ -1,6 +1,6 @@
 # :wave:  Assignment 1 - Introduction to Python! :snowman::zap:
 
-![header-image](https://raw.githubusercontent.com/wilfredinni/pysheetComments/master/2019/March/python_comprehensions/comprehensions.png)
+![header-image](carbon.png)
 
 Hi all, as we progress on the course, assignments needs to come, so there you go, your very first assignment!
 
