@@ -120,6 +120,7 @@ README.md           | A descriptive file to give an introduction of current proj
 LICENCE             | The licence of the file that every project should have.
 .gitignore          | The file to control which files should be ignored by Git.
 .gitkeep            | An empty file to keep folders under git.
+requirements.txt    | A list of python packages you may need for the assignment.
 numbers.txt         | Data file for task #06.
 Tasks.ipynb         | Sample notebook as a reference for how your notebooks should be organized.
 *.ipynb             | Assignment notebook with your code for the given tasks.
