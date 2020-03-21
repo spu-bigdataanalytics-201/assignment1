@@ -1,4 +1,4 @@
-# Assignment 1 - Introduction to Python!
+# Assignment 1 - Introduction to Python! 
 
 ![header-image](https://raw.githubusercontent.com/wilfredinni/pysheetComments/master/2019/March/python_comprehensions/comprehensions.png)
 
@@ -110,7 +110,7 @@ While working on your notebooks, you should also create headings, subsections fo
 - **Task-06:** In this repository, there is a file called `numbers.txt`. This file has 100 lines of 50 digit long numbers. Calculate the sum of all 100 numbers and get the last 10 digit. **Use** `map` function of python while doing this task.
 - **Task-07:** The series of `1^1 + 2^2 + 3^3 + ... + 10^10` equals to 10405071317. Find the last 10 digits of the following series: `1^1 + 2^2 + 3^3 + ... + 500^500`. **Use** `reduce` function while doing this assignment.
 
-## What are all these files?
+## What are All These Files?
 
 Following table is will give it a meaning for each file.
 
