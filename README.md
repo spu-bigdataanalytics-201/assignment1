@@ -1,4 +1,4 @@
-# Assignment 1 - Introduction to Python! 
+# :wave:  Assignment 1 - Introduction to Python! :snowman::zap:
 
 ![header-image](https://raw.githubusercontent.com/wilfredinni/pysheetComments/master/2019/March/python_comprehensions/comprehensions.png)
 
@@ -123,7 +123,8 @@ LICENCE             | The licence of the file that every project should have.
 numbers.txt         | Data file for task #06.
 Tasks.ipynb         | Sample notebook as a reference for how your notebooks should be organized.
 *.ipynb             | Assignment notebook with your code for the given tasks.
-## Your To-Do List for This Assignment
+
+## Your To-Do List for This Assignment :dollar::euro:
 
 - [ ] I create an environment and install the requirements to my environment.
 - [ ] I completed task #01.
