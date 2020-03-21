@@ -136,4 +136,4 @@ Tasks.ipynb         | Sample notebook as a reference for how your notebooks shou
 - [ ] My notebook(s) are well organized with headings, comments, that makes it visually appealing.
 - [ ] My notebook(s) have the results of my execution.
 - [ ] My notebook(s) are reproducible.
-- [ ] I download the final version of my repository, and uploaded to the blackboard!
+- [ ] I download the final version of my repository, and uploaded to the [blackboard](https://saintpeters.blackboard.com/)!
